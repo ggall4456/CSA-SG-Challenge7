@@ -10,7 +10,7 @@ mynetwork = 'L_646829496481100388'
 
 meraki = MerakiSdkClient(meraki_api_key)
 
-#Current versions
+#Current versions, note that I changed the "." to "-" after reviewing the list data
 msversion = '11-31'
 mrversion = '26-6-1'
 mxversion = '15-27'
