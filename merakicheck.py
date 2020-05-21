@@ -4,7 +4,7 @@ from meraki_sdk.meraki_sdk_client import MerakiSdkClient
 from meraki_sdk.exceptions.api_exception import APIException
 import requests
 import os
-
+# Comment to test git
 meraki_api_key = '093b24e85df15a3e66f1fc359f4c48493eaa1b73'
 mynetwork = 'L_646829496481100388'
 
